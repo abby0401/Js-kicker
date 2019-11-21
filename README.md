@@ -5,11 +5,11 @@ Dangerous ⚠ Use it at your own risk !
 
 How to run ?
 ------
-- `git clone https://github.com/yinmo-public/Js-kicker`
+- `git clone https://github.com/a040900/Js-kicker`
 - `cd Js-kicker && npm install`
 - `cd src`
 - `npm start`
-- `type kickall -> kick all member`
+- `type av8drun -> kick all member`
 
 ----
 **NOTE & Features** 
