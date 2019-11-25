@@ -74,7 +74,7 @@ class LINE extends Command {
         let sender = messages.from;
         
         this.command('.speed', this.getSpeed.bind(this));
-        this.command(`av8drun ${payload}`,this.kickAll.bind(this));
+        this.command(`你好 ${payload}`,this.kickAll.bind(this));
     }
 
 }
